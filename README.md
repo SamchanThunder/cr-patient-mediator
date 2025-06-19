@@ -1,2 +1,2 @@
-# mrs-patient-mediator
+# CR-patient-mediator
 
